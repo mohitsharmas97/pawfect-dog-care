@@ -1,0 +1,10 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+pillow>=10.0.0
+# Install torch + torchvision for your machine: https://pytorch.org/get-started/locally/
+# PawPal RAG assistant (Python 3.10-3.12 recommended for ML package compatibility)
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+google-genai>=1.0.0
+python-dotenv>=1.0.0
